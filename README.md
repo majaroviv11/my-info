@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @majaroviv11
+- 👀 I’m interested in website creating
+- 🌱 I’m currently learning js
